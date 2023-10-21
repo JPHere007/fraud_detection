@@ -8,3 +8,5 @@ def model2():
 
 def model2():
     print("Model 2 algo")
+
+print("model 2 is performing well")
